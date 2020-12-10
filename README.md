@@ -1,5 +1,9 @@
 # tp-nodeJs
 
+Descripción:
+
+A partir de un formulario que se abre en el navegador, se envian los datos al server localhost y  desde ahi se realiza un post a un archivo json de una url externa.
+
 Pasos para ejecutar el programa:
 
 1) Ejecutar en la consola el comando "node server.js".
